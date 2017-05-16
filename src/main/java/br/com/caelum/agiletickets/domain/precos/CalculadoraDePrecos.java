@@ -44,5 +44,9 @@ public class CalculadoraDePrecos {
 
 		return preco.multiply(BigDecimal.valueOf(quantidade));
 	}
+	
+	public void test(){
+		//TODO
+	}
 
 }
